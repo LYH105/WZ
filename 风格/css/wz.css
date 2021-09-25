@@ -70,3 +70,22 @@
 				max-width: 150px;
 				max-height: 150px;
 			}
+			#rp{
+				width: 100%;
+				height: 30px;
+				/* background-color: aqua; */
+			}
+			#ggbf{
+				line-height: 30px;
+				font-family: "楷体";
+				font-size: 20px;
+				font-weight: 600;
+			}
+			#r{
+				margin: 0;
+				width: 100%;
+				text-align: center;
+				height: 20px;
+				font-size: 14px;
+				line-height: 20px;
+			}
